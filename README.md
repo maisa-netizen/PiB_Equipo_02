@@ -36,4 +36,4 @@ https://github.com/maisa-netizen/PiB_Equipo_02/blob/d2fddf9af98561c4a38e5b17eab5
 ---
 
 ## 📌 Resumen Final  
-Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
+Somos el equipo 02 del curso PiB 2026-1, conformado por estudiantes de ingeniería entusiasmados por explorar sus aplicaciones en problemáticas de la sociedad actual, con un enfoque en el desarrollo de soluciones con impacto social. Nos motiva aprender y aplicar la metodología Design Thinking para abordar desafíos reales en el sector salud, tanto a nivel nacional como internacional. Nuestro objetivo es contribuir a los Objetivos de Desarrollo Sostenible, especialmente en salud y bienestar, innovación, reducción de desigualdades y consumo responsable, buscando generar propuestas que sean funcionales, sostenibles y con impacto positivo en la comunidad.
