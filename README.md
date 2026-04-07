@@ -18,7 +18,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-<img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/user-attachments/assets/3829718f-51c7-4d00-b262-ef37f178f059" />
+[<img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/user-attachments/assets/3829718f-51c7-4d00-b262-ef37f178f059" />](https://github.com/maisa-netizen/PiB_Equipo_02/blob/ad514ce5ca25c863a72cb157fad7db48a0d3cc0d/Captura%20de%20pantalla%202026-04-06%20221855.png)
   <em>Figura 1. Fotografía del equipo 02</em>
 </p>
 
