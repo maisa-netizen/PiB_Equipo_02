@@ -18,7 +18,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-![imagen](Captura de pantalla 2026-04-06 221855.png)
+![imagen alt](Captura de pantalla 2026-04-06 221855.png)
   <em>Figura 1. Fotografía del equipo 02</em>
 </p>
 
