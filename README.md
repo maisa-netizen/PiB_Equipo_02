@@ -1,4 +1,4 @@
-# Equipo 02 - Nombre del curso
+# Equipo 02 - Procesos de innovación en Bioingeniería
 ### Carrera de Ingeniería Biomédica  
 **Universidad Peruana Cayetano Heredia**
 
