@@ -32,7 +32,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 |------|--------|-----|-----------|
 | <img src="Captura de pantalla 2026-04-06 222456.png" width="90"/> | **María Isabel Monson la Rosa** | Líder del equipo | Innovación social, sostenibilidad, accesibilidad, diseño de proyectos |
 | <img src="Captura de pantalla 2026-04-06 222518.png" width="90"/> | **Baltazar Jerry Vilcherrez Vera** | Responsable de investigación | Gestión en salud, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Alania Zuñiga Jossue Fernando** | Encargado de documentación | Redacción técnica, programación, comunicación científica |
+| <img src="Captura de pantalla 2026-04-06 222537.png" width="90"/> | **Alania Zuñiga Jossue Fernando** | Encargado de documentación | Redacción técnica, programación, comunicación científica |
 
 ---
 
